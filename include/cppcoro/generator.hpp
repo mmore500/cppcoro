@@ -5,7 +5,7 @@
 #ifndef CPPCORO_GENERATOR_HPP_INCLUDED
 #define CPPCORO_GENERATOR_HPP_INCLUDED
 
-#include <experimental/coroutine>
+#include <coroutine>
 #include <type_traits>
 #include <utility>
 #include <exception>
